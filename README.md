@@ -18,4 +18,4 @@ Wildfires pose a significant threat to ecosystems and human communities. In this
 - Git for version control
 
 ## Project Website
-For more details about the project, including data sources, methodology, and results, visit the [Project Website](https://olan-pinto.github.io/Data-Mining-CSCI-5502-872-Course-Project/).
+For more details about the project, including data sources, methodology, and results, visit the [Project Website]([https://olan-pinto.github.io/Data-Mining-CSCI-5502-872-Course-Project/](https://abhiram1234.github.io/Data-Mining-CSCI-5502-872-Course-Project/)).
